@@ -15,17 +15,31 @@ https://raw.githubusercontent.com/jackchoumine/jack-picture/master/目录/文件
 ```bash
 https://raw.githubusercontent.com/jackchoumine/jack-picture/master/webpack/webpack.png
 ```
-## 从 jsdelivr 拉取图片
 
-![stencil组件生命周期](https://cdn.jsdelivr.net/gh/jackchoumine/jack-picture@master/008i3skNgy1gxyq0ishibj30u0147418.jpg)
+## 从 staticaly 拉取
+
+![](https://cdn.staticaly.com/gh/jackchoumine/jack-picture@master/webpack/webpack.png)
 
 ```bash
-https://cdn.jsdelivr.net/gh/jackchoumine/jack-picture@master/008i3skNgy1gxyq0ishibj30u0147418.jpg
+https://cdn.staticaly.com/gh/jackchoumine/jack-picture@master/webpack/webpack.png
+https://cdn.staticaly.com/gh/{{owner}}/{{repo}}@{{branch}}/{{path}}
 ```
 
-## TS
+## 从jsdelivr 中国拉取图片
 
+![](https://jsd.cdn.zzko.cn/gh/jackchoumine/jack-picture@master/webpack/webpack.png)
 
+```bash
+https://jsd.cdn.zzko.cn/gh/jackchoumine/jack-picture@master/webpack/webpack.png
+https://jsd.cdn.zzko.cn/gh/{{owner}}/{{repo}}@{{branch}}/{{path}}
+```
+## 从 jsdelivr 拉取图片
 
-## data-structure
+![stencil组件生命周期](https://cdn.jsdelivr.net/gh/jackchoumine/jack-picture@master/webpack/webpack.png)
 
+```bash
+https://cdn.jsdelivr.net/gh/jackchoumine/jack-picture@master/webpack/webpack.png
+https://cdn.jsdelivr.net/gh/{{owner}}/{{repo}}@{{branch}}/{{path}}
+```
+
+## 要是有工具能把这些图片链接在提交之前提取到markdown是极好的
